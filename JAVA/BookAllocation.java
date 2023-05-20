@@ -1,8 +1,5 @@
 package JAVA;
 
-import java.util.*;
-import java.io.*;
-
 public class BookAllocation {
     public static void main(String[] args) {
         int n = 3;
