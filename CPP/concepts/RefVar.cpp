@@ -17,7 +17,7 @@ int main()
     cout << k << endl;
     int a = 9;
     // error(a);
-}
+};
 /* int& error(int& b){
     int num = 369;
     int &s = num;
